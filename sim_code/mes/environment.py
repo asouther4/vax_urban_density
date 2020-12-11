@@ -1,5 +1,6 @@
 """
-Environment Code for an Agent-Based Simulation of SEIR Model
+Environment Code, 
+for initializing Agent-Based Sim
 
 Programmer: Andrew Souther
 Date: September 2020

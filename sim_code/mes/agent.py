@@ -1,8 +1,9 @@
 """
-Agent Code for a Simulation of an SEIR Model
+Agent Code for an SEIR Simulation,
+featuring endogenous vaccine decisions
 
 Programmer: Andrew Souther
-Date: September 2020
+Date: December 2020
 
 """
 

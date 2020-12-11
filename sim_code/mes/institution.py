@@ -1,8 +1,9 @@
 """
-SEIR Matching Insitution for an Agent-Based Simulation
+SEIR Matching Insitution,
+featuring complex network structures
 
 Programmer: Andrew Souther
-Date: September 2020
+Date: December 2020
 
 """
 

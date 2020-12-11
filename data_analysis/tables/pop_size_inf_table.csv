@@ -1,0 +1,8 @@
+,,Percent Infected (Pop Size I),Percent Infected (Pop Size I),Percent Infected  (Pop Size II),Percent Infected  (Pop Size II),Percent Infected (Pop Size III),Percent Infected (Pop Size III)
+,,mean,std,mean,std,mean,std
+Treatment,Hub Contact Rate,,,,,,
+A,6,14.7,5.41,13.69,6.5,17.12,5.01
+A,14,18.91,5.91,16.46,6.86,21.3,6.45
+B,8,17.62,6.5,16.24,7.44,16.21,5.43
+B,12,19.54,6.55,17.07,4.5,18.12,7.56
+C,10,18.6,5.5,20.73,9.0,19.39,6.08

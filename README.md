@@ -2,7 +2,7 @@
 
 ### "It's Worth a Shot: Urban Density, Endogenous Vaccination Decisions, and Dynamics of Infectious Disease"
 
-This repository contains replication code for the above-titled working paper by Tassier, Chang, and Souther (2020). Paper coming soon!!
+This repository contains replication code for the above-titled working paper by Tassier, Chang, and Souther (2020). Paper draft forthcoming.
 
 For previous work by [Myong-Hun Chang](https://academic.csuohio.edu/changm/) and [Troy Tassier](https://sites.google.com/site/troytassier/home) on agent-based models of vaccine coverage, [see here](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/s10614-019-09918-7.pdf&casa_token=YcKmIno4UWcAAAAA:k3JNvB9KoLsvrR8mct_02xxDK59pQsS-9NIbN7g8kw7EsHfs660-Z17LmVfL4YA8rwuJJN0rIWHIv41P7g).  
 

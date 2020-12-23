@@ -1,14 +1,11 @@
-from mesa import Agent, Model
-from mesa.time import RandomActivation
 import logging
 import random
-from bson import json_util # pymongo
 import jsonlines
 from datetime import datetime
 
 logging.basicConfig(filename='test.log', level=logging.DEBUG)
 
-class VaxAgent(Agent):
+class VaxAgent:
     def __init__(self, unique_id, model):
         self.unique_id = unique_id
         self.model = model

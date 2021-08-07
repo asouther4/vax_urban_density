@@ -64,7 +64,7 @@ class VaxAgent:
             self.current_state = 'Ex'
     
 
-    def new_season(self, choice, seed, new_season_state, prob_of_infection):
+    def new_season(self, seed, new_season_state, probabilities_of_infection):
         """
         Receives information about the start of the new epidemic season, whenever a new season starts. 
         """
@@ -79,26 +79,89 @@ class VaxAgent:
         #update your current state for the new season
         self.current_state = new_season_state
 
-        #if the agent was offered a choice, decide whether or not to get vaccinated
-        if choice:
-            if prob_of_infection >= (1/self.model.cost_of_infection): #get vaccinated if the probability of infection is high in your region
-                self.current_state = 'V'
-            else: #if the probability of infection is not so high, start the season susceptible
-                self.current_state = 'S'
+        #decide whether or not this agent will start the season vaccinated
+        self.vax_choice(probabilities_of_infection)
         
-
         #finally, consider whether this agent is a seed of the infection
         if seed:
             if self.current_state != 'V': #if a seed agent is not vaccinated, they start the season Infected
                 self.current_state = 'In'
 
         if self.debug:
-            logging.debug(f"Agent {self.unique_id} is facing a prob_of_infection of {prob_of_infection}"
+            logging.debug(f"Agent {self.unique_id} is facing probabilities_of_infection of {probabilities_of_infection}"
                           f"in hub {self.hub}, along with a cost_of_infection of {self.model.cost_of_infection}.")
 
         if self.debug:
             logging.debug(f'agent {self.unique_id} exited new_season')
 
+    def vax_choice(self,probabilities_of_infection):
+        """
+        This helper method determines whether the agent will get vaccinated in the upcoming season. 
+        The particular algorithm used depends on the 'vax_choice_key' passed in the config file, 
+        along with the 'vax_choice_params'. 
+
+        Possible vax choice keys: 
+
+        - simple_probability,
+            Parameters: probability_choice
+            Description: by default, each agent keeps same state as last season. 
+                However, with probability = probability_choice, agents change their vaccine status. 
+                If probability of infection from their own region last season was greater than
+                1/cost_of_infection, the agent decides to get vaccinated. Otherwise not. 
+        
+        - neighbors, 
+            Parameters: None
+            Description: each agent looks at how many unvaccinated neighbors were 
+                infected in the previous season. Each agent calculates a simple probability of infection
+                equal to num_infected / num_unvaccinated, including their own data. 
+                If this probability of infection is greater than 1/cost_of_infection, the agent decides 
+                to get vaccinated. Otherwise not. 
+        """
+        vax_choice_key = self.model.vax_choice_key #retrieve the vax_choice_key from the model
+        vax_choice_params = self.model.vax_choice_params #retrieve parameters for vax_choice algorithm from model
+
+        if vax_choice_key == "simple_probability":
+            probability_choice = vax_choice_params["probability_choice"]
+            vax_choice_lottery = random.random() #take a random draw between (0,1)
+            if vax_choice_lottery <= probability_choice: #if the draw is less than probability_choice, update_state
+                prob_of_infection = probabilities_of_infection[self.hub] # find out the probability of infection from your own hub
+                if prob_of_infection >= (1/self.model.cost_of_infection): #get vaccinated if the probability of infection is high in your region
+                    self.current_state = 'V'
+                    if self.debug: 
+                        logging.debug(f"Agent {self} chose to get vaccinated at the end of season {self.model.season}")
+                else: 
+                    self.current_state = 'S'
+        
+        elif vax_choice_key == "neighbors":
+            num_infected = 0
+            num_unvaccinated = 0
+            observations = self.neighbors.copy() + [self] # the agent looks at her own data long with her neighbors
+
+            # if an agent finished recovered, they were infected at some point last season. 
+            # If they finished vax'ed, they were always vax'ed that season. 
+            for agent in observations: 
+                if self.model.time_period_data[self.model.season][-1][f"{agent}"]['starting_state'] == 'R':
+                    num_infected +=1 
+                if self.model.time_period_data[self.model.season][-1][f"{agent}"]['starting_state'] != 'V':
+                    num_unvaccinated +=1     
+
+            if self.debug: 
+                logging.debug(f"Agent {self} had {num_infected} infected contacts"
+                            f"and {num_unvaccinated} unvaccinated contacts after season {self.model.season} (including self)." )
+            
+            if num_unvaccinated > 0: #if any of your neighbors were unvaccinated, make a vaccine choice
+                prob_of_infection = num_infected / num_unvaccinated # risk is the fraction of infected unvaccinated 
+                if prob_of_infection >= (1/self.model.cost_of_infection): #get vaccinated if the probability of infection is high in your region
+                    self.current_state = 'V'
+                    #if self.debug: TODO: put back inside debug conditional
+                    logging.debug(f"Agent {self} chose to get vaccinated at the end of season {self.model.season}/")
+                else: 
+                    self.current_state = 'S'
+            else: 
+                self.current_state = 'S'
+
+        else: 
+            self.error_log(f"Agent received unexpected value for vax_choice_key = {self.vax_choice_key}")
 
 class VaxModel:
     """A model with some number of agents."""
@@ -116,6 +179,8 @@ class VaxModel:
         self.probability_vacc_choice = config["probability_vacc_choice"]
         self.number_of_seasons =  config["number_of_seasons"]
         self.log_time_period_data = config["log_time_period_data"]
+        self.vax_choice_key = config["vax_choice_key"]
+        self.vax_choice_params = config["vax_choice_params"]
         self.agents = []
         self.dict_of_hubs = {} 
         self.eligible_agents = None
@@ -190,15 +255,11 @@ class VaxModel:
                 current_hub+=1
                 current_agent = 0
 
-            
-            
-
     def generate_network(self):
 
         random.shuffle(self.agents)
         self.eligible_agents = self.agents.copy()
         
-
         #iterate through the list of registered_agents
         for agent in self.agents:
             
@@ -280,7 +341,7 @@ class VaxModel:
                     neighbors_inside_hub +=1
                     inside_hub_matches[agent.hub] +=1
 
-        #for each hub, density  is the total number of matches divided by the size
+        #for each hub, density is the total number of matches divided by the size
         computed_hub_densities = [ ]
         for total, size in zip(total_hub_matches, computed_hub_sizes):
             computed_hub_densities.append(total/size)
@@ -295,14 +356,13 @@ class VaxModel:
             
         logging.debug("INSTITUTION: NETWORK GENERATED! Here is some information: \n" 
                       f"actual list of hub densities = {computed_hub_densities} \n"
-                      f"expected list of hub densities = {self.hub_densities}"
+                      f"expected list of hub densities = {self.hub_densities} \n"
                       f"actual list of hub sizes = {computed_hub_sizes} \n"
                       f"expected list of hub sizes = {self.hub_sizes} \n"
                       f"proportion of neighbors inside hub, by hub = {computed_hub_homophilies} \n"
                       f"total proportion of neighbors inside one's hub = {proportion_inside_hub}, expected = {self.degree_of_homophily}")
 
-
-        #Testing Urban vs. Rural homophily. TODO: maybe make this code more general somehow?
+        #Testing Urban vs. Rural homophily. TODO: this code seems to be broken. make it more general somehow?? 
         avg_rural_homophily = 0
         avg_urban_homophily  = 0
         for i in range(self.number_of_hubs):
@@ -348,14 +408,30 @@ class VaxModel:
             neighbor.number_of_connections:
             self.eligible_agents.remove(neighbor)
 
-
     def run_full_simulation(self):
         
         for season in range(self.number_of_seasons): 
+            self.season = season
 
             #count the number of infected agents at the start of the season
             self.number_infected = sum([1 for agent in self.agents if agent.current_state == 'In'])
-            
+            self.number_vaccinated = sum([1 for agent in self.agents if agent.current_state == 'V'])
+
+            #if self.debug: TODO: put back inside debug conditional
+            logging.debug(f"Institution: Entered loop for new season = {self.season} inside run_full_simulation "
+                              f"with {self.number_infected} infected agents and {self.number_vaccinated} vaccinated agents to begin.")
+
+            # if no agents started infected, then all seed agents were vaxed, and no epidemic takes place
+            if self.number_infected == 0:
+                logging.debug(f"Institution: All seed agents were vaccinated in season {self.season} so no epidemic took place.")
+                
+                #log time period data such that all agents were not exposed
+                self.time_period_data[self.season].append({})
+                for agent in self.agents:
+                    self.time_period_data[self.season][self.time_period][f"{agent}"] = {} #add this agent to the record for the time period
+                    self.time_period_data[self.season][self.time_period][f"{agent}"]["exposed"] = False #the default state for this is False, unless they get infected later
+                    self.time_period_data[self.season][self.time_period][f"{agent}"]["starting_state"] = agent.current_state
+
             #repeat the simulation until the number of infected equals zero        
             while self.number_infected > 0:
                 self.run_one_time_period()
@@ -369,16 +445,14 @@ class VaxModel:
             
             #whenever the infection dies out, end the season
             self.end_season(season)
-            self.season += 1
+
         
-
-
     def run_one_time_period(self):
         """
         Runs the SEIR simulation for one time period. At the end of this function, the time period is ticked up by 1.  
         """
         if self.debug:
-            logging.debug("institution entered run_basic_simulation")
+            logging.debug(f"Institution entered run_one_time_period, time_period = {self.time_period}, season = {self.season}")
         
         self.time_period_data[self.season].append({})
 
@@ -386,6 +460,10 @@ class VaxModel:
             self.time_period_data[self.season][self.time_period][f"{agent}"] = {} #add this agent to the record for the time period
             self.time_period_data[self.season][self.time_period][f"{agent}"]["exposed"] = False #the default state for this is False, unless they get infected later
             self.time_period_data[self.season][self.time_period][f"{agent}"]["starting_state"] = agent.current_state
+
+        if self.debug:
+            logging.debug(f"Institution: initialized time_period_data in time period = {self.time_period}, season = {self.season}, "
+                          f"time_period_data = {self.time_period_data[self.season][self.time_period]}")
 
         new_exposures = 0
         #find out which agent has been matched with an infectious person in this time period
@@ -430,7 +508,6 @@ class VaxModel:
             elif self.time_period_data[self.season][self.time_period][f"{agent}"]['exposed'] == True:
                 current_exposed +=1
 
-
         current_vaccinated = 0
         #finally, count how many agents were vaccinated this round
         for agent in self.agents: #self.time_period_data[self.season][self.time_period].keys():
@@ -454,15 +531,15 @@ class VaxModel:
         if self.debug:
             logging.debug("institution exited run_basic_simulation")
     
-
     def end_season(self, season):
         """This helper function starts a new season """
+        if self.debug:
+            logging.debug(f"Institution: Entered end_season at the end of season {self.season}.")
 
         self.time_period = 0 #reset the time period to 0 for the next season
 
         if self.debug:
-            logging.debug(f"Institution: Time period data at the end of the last season: {self.time_period_data[(self.season)-1][-1]}")
-
+            logging.debug(f"Institution: Time period data at the end of season {self.season}: {self.time_period_data[self.season][-1]}")
 
         #TODO: delete this
         #put all the unvaccinated agents into a list
@@ -476,6 +553,11 @@ class VaxModel:
         number_unvaccinated = number_recovered.copy()
 
         for agent in self.agents:
+            
+            #TODO: delete
+            #logging.debug(f"line 531: len(time_period_data) = {len(self.time_period_data)}, "
+            #              f"season = {self.season}")
+
             if self.time_period_data[self.season][-1][f"{agent}"]['starting_state'] == 'R':
                 number_recovered[agent.hub] += 1
             if self.time_period_data[self.season][-1][f"{agent}"]['starting_state'] != 'V':
@@ -484,7 +566,10 @@ class VaxModel:
         #calculate the probability of infection for each hub. that's the num recovered / num unvaccinated
         probabilities_of_infection = []
         for rec, unvac in zip(number_recovered, number_unvaccinated):
-            probabilities_of_infection.append(rec/unvac)
+            if unvac == 0: 
+                probabilities_of_infection.append(0) #if everyone is vaccinated, the prob of infection is 0
+            else: 
+                probabilities_of_infection.append(rec/unvac)
         
         for agent in self.agents:
 
@@ -494,7 +579,6 @@ class VaxModel:
             
             else: #if the agent finished the last season unvaccinated, they will start Susceptible by default
                 new_season_state = 'S'
-
             
             #next, we determine whether this agent will serve as a seed of the infection
             if agent in seed_list:
@@ -502,19 +586,10 @@ class VaxModel:
             else:
                 seed = False
 
-            #finally, we determine whether the agent will have a vaccination choice in the upcoming season
-            vacc_choice_lottery = random.random()
-            if vacc_choice_lottery <= self.probability_vacc_choice:
-                choice = True
-            else: 
-                choice = False
-
-
             #as long as there is still one more season left to run, notify agents of the new start 
             if self.season + 1 < self.number_of_seasons:
                 #send a message to the agent notifying them with this information for the new season
-                agent.new_season(choice, seed, new_season_state, probabilities_of_infection[agent.hub])
-
+                agent.new_season(seed, new_season_state, probabilities_of_infection)
 
         #log seasonal data for each hub
         for i in range(self.number_of_hubs):
@@ -536,4 +611,3 @@ class VaxModel:
 
             with jsonlines.open('experiment_data.log', mode='a') as writer:
                 writer.write(hub_dict)
-        

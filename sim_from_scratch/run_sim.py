@@ -8,13 +8,15 @@ config = {"number_of_agents" : 1000,
           "degree_of_homophily" : 0.89,
           "hub_densities" : [8,8,8,8,8,12,12,12,12,12],
           "hub_sizes" : [80,80,80,80,80,120,120,120,120,120],
-          "starting_vaccination_rate" :  0.15,
-          "cost_of_infection" : 3,
-          "probability_vacc_choice" : 0.08,
+          "starting_vaccination_rate" : 0.15,
+          "cost_of_infection" : 1,
+          "probability_vacc_choice" : 0.08, # TODO: delete after testing the new system works
           "number_of_seasons" :  25,
+          "vax_choice_key" : "neighbors",
+          "vax_choice_params" : {"probability_choice": 0.08},
           "log_time_period_data" : False}
 
-number_of_runs = 3
+number_of_runs = 1
 
 for i in range(number_of_runs):
     empty_model = VaxModel(config)

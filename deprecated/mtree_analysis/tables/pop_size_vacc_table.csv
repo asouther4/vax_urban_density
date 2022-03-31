@@ -1,0 +1,8 @@
+,,Percent Vaccinated (Pop Size I),Percent Vaccinated (Pop Size I),Percent Vaccinated (Pop Size II),Percent Vaccinated (Pop Size II),Percent Vaccinated (Pop Size III),Percent Vaccinated (Pop Size III)
+,,mean,std,mean,std,mean,std
+Treatment,Hub Contact Rate,,,,,,
+A,6,25.44,5.93,24.97,7.03,24.57,4.91
+A,14,56.88,4.75,57.65,3.9,56.0,5.18
+B,8,38.98,5.99,38.19,7.16,38.97,4.91
+B,12,54.06,5.2,54.04,5.4,51.54,5.66
+C,10,46.93,5.14,44.88,6.37,45.9,5.58

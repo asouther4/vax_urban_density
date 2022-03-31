@@ -1,0 +1,1966 @@
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C4AA00D0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C4A68D90> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C4A68D90> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C4A68D90> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4C4AA00D0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4C4A68D90> has 5 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.9625, 8.0, 8.0, 8.0, 8.0, 12.0, 11.991666666666667, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8320251177394035, 0.8625, 0.8625, 0.865625, 0.871875, 0.8833333333333333, 0.886726893676164, 0.8861111111111111, 0.8875, 0.9] 
+total proportion of neighbors inside one's hub = 0.8795690650250096, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C463280DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C463280DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C463280DF0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 11.983333333333333, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.84375, 0.871875, 0.878125, 0.884375, 0.9013888888888889, 0.8916666666666667, 0.8847222222222222, 0.8817802503477051, 0.9] 
+total proportion of neighbors inside one's hub = 0.8853625697249471, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023301AE96D0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023301AE9EB0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AC2741B50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AC2741B50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AC2741B50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AC2741B50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023301AE96D0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023301AE9EB0> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.853125, 0.875, 0.875, 0.865625, 0.859375, 0.8930555555555556, 0.8958333333333334, 0.885952712100139, 0.8944444444444445, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8845931909982689, expected = 0.89
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AC2741B50> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.966666666666667, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85625, 0.871875, 0.878125, 0.859375, 0.86875, 0.8955431754874652, 0.9013888888888889, 0.9041666666666667, 0.9013888888888889, 0.8888888888888888] 
+total proportion of neighbors inside one's hub = 0.888611004232397, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024377319820> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024377319820> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024377319820> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.871875, 0.871875, 0.871875, 0.859375, 0.8930555555555556, 0.8972222222222223, 0.885952712100139, 0.8861111111111111, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.8844008463165993, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C821F9DC0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C821F9DC0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C821F9DC0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C821F9DC0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020ADC57A250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020ADC5722E0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025C821F9DC0> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.966666666666667, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.90625, 0.8875, 0.85, 0.88125, 0.8875, 0.8847222222222222, 0.8927576601671309, 0.8763888888888889, 0.8819444444444444] 
+total proportion of neighbors inside one's hub = 0.8830319353597538, expected = 0.89
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020ADC57A250> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020ADC5722E0> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.9875, 7.9875, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8701095461658842, 0.8575899843505478, 0.85, 0.846875, 0.875, 0.8944444444444445, 0.8930555555555556, 0.8916666666666667, 0.8847222222222222, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8822850548182343, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.86875, 0.88125, 0.859375, 0.875, 0.9111111111111111, 0.8902777777777777, 0.8875, 0.9041666666666667, 0.9069444444444444] 
+total proportion of neighbors inside one's hub = 0.8909615384615385, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148C6A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148C6A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148C6A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148C6A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148C6A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148973A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148973A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4148973A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4148C6A00> has 7 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4148973A0> has 5 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 7.9625, 8.0, 8.0, 8.0, 12.0, 11.958333333333334, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.8728414442700158, 0.85625, 0.846875, 0.896875, 0.9027777777777778, 0.883623693379791, 0.9013888888888889, 0.8916666666666667, 0.8902777777777777] 
+total proportion of neighbors inside one's hub = 0.886451116243264, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CB3C046A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CB3C046A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CB3C046A0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85, 0.875, 0.88125, 0.875, 0.85, 0.8986111111111111, 0.8901251738525731, 0.8916666666666667, 0.9083333333333333, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8874783612233121, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.859375, 0.878125, 0.890625, 0.85625, 0.853125, 0.8944444444444445, 0.8805555555555555, 0.8819444444444444, 0.8916666666666667, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8825, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.85, 0.875, 0.846875, 0.890625, 0.8902777777777777, 0.8916666666666667, 0.8916666666666667, 0.8847222222222222, 0.9] 
+total proportion of neighbors inside one's hub = 0.8838461538461538, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.85, 0.853125, 0.878125, 0.834375, 0.9013888888888889, 0.8861111111111111, 0.8847222222222222, 0.8972222222222223, 0.9041666666666667] 
+total proportion of neighbors inside one's hub = 0.8834615384615384, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002432B3167F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002432B3167F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002432B3167F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002432B3167F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002432B3167F0> has 4 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 7.95, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.839622641509434, 0.85625, 0.890625, 0.86875, 0.8958333333333334, 0.8944444444444445, 0.9013888888888889, 0.8944444444444445, 0.8861111111111111] 
+total proportion of neighbors inside one's hub = 0.8857252789534437, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002333641E940> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023336416D90> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002333641E940> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023336416D90> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 7.9875, 7.9875, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.88125, 0.8701095461658842, 0.8607198748043818, 0.834375, 0.8861111111111111, 0.9083333333333333, 0.9, 0.8986111111111111, 0.9027777777777778] 
+total proportion of neighbors inside one's hub = 0.8878630505866513, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AF6EA37F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AF6ED9850> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AF6EA37F0> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AF6ED9850> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 7.9875, 8.0, 12.0, 12.0, 12.0, 11.991666666666667, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.853125, 0.8625, 0.8701095461658842, 0.871875, 0.8902777777777777, 0.8958333333333334, 0.8888888888888888, 0.8992355802640722, 0.8777777777777778] 
+total proportion of neighbors inside one's hub = 0.8824773994999038, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.884375, 0.86875, 0.85, 0.859375, 0.9055555555555556, 0.8916666666666667, 0.8930555555555556, 0.9013888888888889, 0.9069444444444444] 
+total proportion of neighbors inside one's hub = 0.8894230769230769, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.859375, 0.884375, 0.846875, 0.88125, 0.871875, 0.9013888888888889, 0.9041666666666667, 0.9097222222222222, 0.9027777777777778, 0.8944444444444445] 
+total proportion of neighbors inside one's hub = 0.8921153846153846, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.840625, 0.86875, 0.85625, 0.859375, 0.86875, 0.8916666666666667, 0.9027777777777778, 0.9013888888888889, 0.8902777777777777, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.885, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C430AD5EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C430AD5EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C430AD5EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C430AD5EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C430AD5EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C430AE3910> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C430AD5EE0> has 7 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C430AE3910> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.958333333333334, 11.991666666666667, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.865625, 0.825, 0.89375, 0.84375, 0.9003484320557491, 0.8950660180681028, 0.9180555555555555, 0.8847222222222222, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.8874350586877044, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8875, 0.865625, 0.84375, 0.88125, 0.86875, 0.9041666666666667, 0.8888888888888888, 0.8833333333333333, 0.8861111111111111, 0.8944444444444445] 
+total proportion of neighbors inside one's hub = 0.8846153846153846, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CA9AE4D60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CA9AE4D60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CA9AE4D60> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 7.975, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.846875, 0.878125, 0.8463949843260188, 0.85, 0.86875, 0.8944444444444445, 0.8972222222222223, 0.9027777777777778, 0.8916666666666667, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8845931909982689, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023301AA7A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023301AA7A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023301AA7A00> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.975, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.890282131661442, 0.878125, 0.871875, 0.85625, 0.890625, 0.8861111111111111, 0.8972222222222223, 0.9041666666666667, 0.9, 0.8833333333333333] 
+total proportion of neighbors inside one's hub = 0.8890171186766685, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.890625, 0.85625, 0.865625, 0.878125, 0.84375, 0.8944444444444445, 0.9125, 0.8833333333333333, 0.9055555555555556, 0.9027777777777778] 
+total proportion of neighbors inside one's hub = 0.8896153846153846, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C493BFE5B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C493BFE5B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C493BFE5B0> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 7.975, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.871875, 0.8875, 0.865625, 0.8714733542319749, 0.8902777777777777, 0.9055555555555556, 0.8833333333333333, 0.8916666666666667, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.8865166378149644, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.88125, 0.85625, 0.878125, 0.84375, 0.8763888888888889, 0.8986111111111111, 0.9041666666666667, 0.9194444444444444, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.8890384615384616, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C419335160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C419335160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C419335160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C419335160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C419335160> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.966666666666667, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.853125, 0.859375, 0.86875, 0.878125, 0.871875, 0.8997214484679665, 0.8944444444444445, 0.8777777777777778, 0.8902777777777777, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.8841862254713351, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023323773D60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023323773EB0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023323773D60> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023323773EB0> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8875, 0.859375, 0.85625, 0.878125, 0.865625, 0.9027777777777778, 0.8958333333333334, 0.8984700973574409, 0.9041666666666667, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.890555876130025, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E18647EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E18647EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E18647EE0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.890625, 0.88125, 0.853125, 0.8625, 0.9097222222222222, 0.885952712100139, 0.9013888888888889, 0.8916666666666667, 0.9027777777777778] 
+total proportion of neighbors inside one's hub = 0.8899788420850163, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C9D174B50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C9D183FA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C9D183FA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025C9D183FA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025C9D174B50> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025C9D183FA0> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.991666666666667, 12.0, 11.975, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.878125, 0.871875, 0.88125, 0.865625, 0.8922863099374566, 0.8986111111111111, 0.8796102992345164, 0.8972222222222223, 0.8944444444444445] 
+total proportion of neighbors inside one's hub = 0.8861100423239707, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.890625, 0.875, 0.8625, 0.846875, 0.840625, 0.8805555555555555, 0.8986111111111111, 0.9041666666666667, 0.9041666666666667, 0.9041666666666667] 
+total proportion of neighbors inside one's hub = 0.8875, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.85625, 0.890625, 0.871875, 0.853125, 0.9055555555555556, 0.8861111111111111, 0.9152777777777777, 0.8986111111111111, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8911538461538462, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4868CFF40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4868CFF40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020A89037370> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020A89037370> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4868CFF40> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.871875, 0.8875, 0.865625, 0.86875, 0.8819444444444444, 0.9, 0.8970792767732962, 0.9, 0.8916666666666667] 
+total proportion of neighbors inside one's hub = 0.8880553952683208, expected = 0.89
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020A89037370> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.84375, 0.859375, 0.875, 0.86875, 0.8916666666666667, 0.9, 0.9054242002781642, 0.9013888888888889, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8884400846316599, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023316201F70> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023316201DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023316201DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002331622D7C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002331622D7C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002331622D7C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023316201F70> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023316201DF0> has 10 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002331622D7C0> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.975, 12.0, 12.0, 12.0, 11.975] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.828125, 0.86875, 0.88125, 0.884375, 0.8865692414752957, 0.8986111111111111, 0.8972222222222223, 0.9, 0.8963117606123869] 
+total proportion of neighbors inside one's hub = 0.8866653838753127, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF3DB20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF3DB20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF3DB20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF3DB20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF190A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF190A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF190A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C40BF376D0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C40BF3DB20> has 8 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C40BF190A0> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C40BF376D0> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.975, 12.0, 12.0, 11.991666666666667, 11.966666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8875, 0.884375, 0.8625, 0.865625, 0.890625, 0.8851774530271399, 0.8944444444444445, 0.8875, 0.906184850590688, 0.8871866295264624] 
+total proportion of neighbors inside one's hub = 0.8877983063895304, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.9, 0.865625, 0.846875, 0.85625, 0.85, 0.8916666666666667, 0.8902777777777777, 0.8972222222222223, 0.9027777777777778, 0.9041666666666667] 
+total proportion of neighbors inside one's hub = 0.8869230769230769, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024A8C884BE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024A8C8586A0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024A8C884BE0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024A8C8586A0> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 7.9875, 12.0, 12.0, 12.0, 12.0, 11.991666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.85625, 0.865625, 0.878125, 0.86697965571205, 0.9013888888888889, 0.9111111111111111, 0.9027777777777778, 0.8958333333333334, 0.8908964558721334] 
+total proportion of neighbors inside one's hub = 0.8901711867666859, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85, 0.878125, 0.83125, 0.834375, 0.8625, 0.8944444444444445, 0.8986111111111111, 0.8902777777777777, 0.8930555555555556, 0.9041666666666667] 
+total proportion of neighbors inside one's hub = 0.8823076923076923, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.853125, 0.853125, 0.86875, 0.875, 0.834375, 0.9, 0.8958333333333334, 0.9, 0.8819444444444444, 0.8916666666666667] 
+total proportion of neighbors inside one's hub = 0.8825, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AE62A2E20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AE6282DC0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AE62A2E20> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AE6282DC0> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 7.9875, 8.0, 8.0, 12.0, 11.991666666666667, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.9125, 0.865625, 0.8575899843505478, 0.8625, 0.859375, 0.9125, 0.8811674774148714, 0.8958333333333334, 0.8930555555555556, 0.8902777777777777] 
+total proportion of neighbors inside one's hub = 0.8874783612233121, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4E810CAF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4E810CAF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4E810CAF0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.983333333333333, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.86875, 0.853125, 0.865625, 0.878125, 0.8929068150208623, 0.8875, 0.8958333333333334, 0.8819444444444444, 0.9041666666666667] 
+total proportion of neighbors inside one's hub = 0.8842085016349298, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023305D31A30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023305D31A30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023305D31A30> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.88125, 0.846875, 0.871875, 0.859375, 0.8944444444444445, 0.894297635605007, 0.8972222222222223, 0.9041666666666667, 0.9] 
+total proportion of neighbors inside one's hub = 0.8886324293133295, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C46A6B68E0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C46A6B68E0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C46A6E6D30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C46A6E6D30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C46A6E6D30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C46A6E6D30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C46A6B68E0> has 10 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C46A6E6D30> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.983333333333333, 12.0, 12.0, 12.0, 11.966666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.875, 0.859375, 0.846875, 0.859375, 0.8970792767732962, 0.8972222222222223, 0.8888888888888888, 0.8888888888888888, 0.8983286908077994] 
+total proportion of neighbors inside one's hub = 0.8839715220319415, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AE15D1D00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AE15DACD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AE15DACD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AE15DACD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AE15D1D00> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AE15DACD0> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.966666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.903125, 0.86875, 0.859375, 0.884375, 0.89375, 0.8916666666666667, 0.8875, 0.9055555555555556, 0.8916666666666667, 0.8844011142061281] 
+total proportion of neighbors inside one's hub = 0.8889957676029242, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E6BAD4EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E6BAD4EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E6BAD4EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E6BB0B970> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E6BAD4EE0> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E6BB0B970> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.975, 12.0, 12.0, 12.0, 11.991666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.884375, 0.88125, 0.86875, 0.865625, 0.883785664578984, 0.9013888888888889, 0.8847222222222222, 0.8958333333333334, 0.8936761640027797] 
+total proportion of neighbors inside one's hub = 0.8866871873797615, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CEC767F70> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CEC767F70> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CEC767F70> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CEC767F70> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CEC767F70> has 4 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 7.95, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.859375, 0.8679245283018868, 0.86875, 0.846875, 0.8875, 0.8944444444444445, 0.8902777777777777, 0.8902777777777777, 0.9027777777777778, 0.8833333333333333] 
+total proportion of neighbors inside one's hub = 0.8841862254713351, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002430AA66430> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002430AA66430> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002430AA66430> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002430AA66430> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002430AA66430> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.966666666666667, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.859375, 0.85625, 0.865625, 0.8875, 0.8986111111111111, 0.9097222222222222, 0.8871866295264624, 0.8972222222222223, 0.8861111111111111] 
+total proportion of neighbors inside one's hub = 0.886879569065025, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002336A01DA00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002336A01DA00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002336A01DA00> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.846875, 0.86875, 0.875, 0.83125, 0.8805555555555555, 0.8956884561891516, 0.8944444444444445, 0.8958333333333334, 0.8944444444444445] 
+total proportion of neighbors inside one's hub = 0.8822850548182343, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.884375, 0.865625, 0.884375, 0.890625, 0.86875, 0.8986111111111111, 0.9069444444444444, 0.9, 0.8861111111111111, 0.9083333333333333] 
+total proportion of neighbors inside one's hub = 0.8934615384615384, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.84375, 0.8625, 0.846875, 0.896875, 0.85, 0.8972222222222223, 0.9041666666666667, 0.8944444444444445, 0.8916666666666667, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.885, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.84375, 0.853125, 0.86875, 0.86875, 0.9055555555555556, 0.8847222222222222, 0.9, 0.9069444444444444, 0.9097222222222222] 
+total proportion of neighbors inside one's hub = 0.8896153846153846, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E2E55F070> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E2E55F070> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E2E55F070> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.871875, 0.896875, 0.846875, 0.8625, 0.8902777777777777, 0.8847222222222222, 0.8831710709318498, 0.8847222222222222, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8824773994999038, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C43490B9D0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C43490B9D0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C43490B9D0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.859375, 0.878125, 0.884375, 0.88125, 0.89375, 0.9, 0.8998609179415855, 0.9083333333333333, 0.8986111111111111, 0.8944444444444445] 
+total proportion of neighbors inside one's hub = 0.8938257357184074, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CBA89A100> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CBA89A100> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CBA89A100> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.8375, 0.890625, 0.8875, 0.86875, 0.9055555555555556, 0.8958333333333334, 0.9054242002781642, 0.8944444444444445, 0.9013888888888889] 
+total proportion of neighbors inside one's hub = 0.8911329101750337, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024322CDC9D0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024318390550> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024322CDC9D0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024318390550> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.991666666666667, 11.991666666666667, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.859375, 0.85625, 0.86875, 0.85625, 0.8936761640027797, 0.8825573314801946, 0.9055555555555556, 0.9041666666666667, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8863242931332949, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 8 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AAF333520> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AAF333520> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AAF303370> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AAF303370> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AAF333520> has 10 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AAF303370> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.983333333333333, 12.0, 12.0, 12.0, 11.983333333333333] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.8375, 0.8625, 0.875, 0.875, 0.8831710709318498, 0.8861111111111111, 0.9, 0.9, 0.8845618915159944] 
+total proportion of neighbors inside one's hub = 0.882454790303963, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 20 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.840625, 0.85625, 0.846875, 0.884375, 0.865625, 0.8888888888888888, 0.8888888888888888, 0.8875, 0.9069444444444444, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.8825, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 22 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 24 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.884375, 0.8875, 0.8375, 0.86875, 0.85, 0.9013888888888889, 0.8972222222222223, 0.9069444444444444, 0.9041666666666667, 0.9027777777777778] 
+total proportion of neighbors inside one's hub = 0.8911538461538462, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E2E57FB20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3FEE0700> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E2E57FB20> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E3FEE0700> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 7.9875, 8.0, 8.0, 7.9875, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.8513302034428795, 0.865625, 0.890625, 0.8701095461658842, 0.8875, 0.8972222222222223, 0.8861111111111111, 0.9013888888888889, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8859396037699557, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABD38C040> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABD38C040> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ABD38C040> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.884375, 0.865625, 0.865625, 0.86875, 0.884375, 0.8916666666666667, 0.8958333333333334, 0.8984700973574409, 0.8777777777777778, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.8859396037699557, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.8625, 0.85, 0.86875, 0.871875, 0.9097222222222222, 0.8916666666666667, 0.8986111111111111, 0.8972222222222223, 0.9013888888888889] 
+total proportion of neighbors inside one's hub = 0.8896153846153846, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CC27C47C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CC27C47C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CC27C47C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CC27C47C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CC27C47C0> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 11.966666666666667, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.875, 0.8375, 0.865625, 0.8625, 0.9069444444444444, 0.9069444444444444, 0.8847222222222222, 0.8941504178272981, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.886879569065025, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 3 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002433E1EFCD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002433E1EFCD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002433E1EFCD0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.983333333333333] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.875, 0.88125, 0.884375, 0.871875, 0.8916666666666667, 0.8847222222222222, 0.9097222222222222, 0.8986111111111111, 0.8956884561891516] 
+total proportion of neighbors inside one's hub = 0.8903635314483554, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 5 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 6 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 6 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 8 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 11 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 6 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 14 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 12 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 18 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 14 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 16 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 20 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 18 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000233403298B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023340329F10> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x00000233403298B0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023340329F10> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.983333333333333, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.86875, 0.85, 0.859375, 0.903125, 0.8915159944367177, 0.8944444444444445, 0.8875, 0.9027777777777778, 0.8861111111111111] 
+total proportion of neighbors inside one's hub = 0.8863242931332949, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 22 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC06B7E50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC06B7E50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AC06B7E50> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 7.975, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8375, 0.88125, 0.875, 0.83125, 0.8589341692789969, 0.8944444444444445, 0.8916666666666667, 0.8902777777777777, 0.8777777777777778, 0.8944444444444445] 
+total proportion of neighbors inside one's hub = 0.8795922292748606, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 17 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4B72A4190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4B72A4190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4B72A4190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4BC509EE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4B72A4190> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4BC509EE0> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 7.9875, 8.0, 12.0, 12.0, 11.975, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.88125, 0.86875, 0.86697965571205, 0.859375, 0.8972222222222223, 0.9097222222222222, 0.894919972164231, 0.9069444444444444, 0.9069444444444444] 
+total proportion of neighbors inside one's hub = 0.8922662562524047, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 24 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3E9A8F40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3E9A8F40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3E9A8F40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3E9B0FD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3E9B0E80> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E3E9B0E80> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E3E9A8F40> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E3E9B0FD0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E3E9B0E80> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.95] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.859375, 0.8625, 0.865625, 0.896875, 0.8972222222222223, 0.9041666666666667, 0.8916666666666667, 0.8875, 0.8814504881450488] 
+total proportion of neighbors inside one's hub = 0.8860881277660189, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 24 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85, 0.85, 0.828125, 0.859375, 0.875, 0.8888888888888888, 0.8958333333333334, 0.8666666666666667, 0.8888888888888888, 0.8791666666666667] 
+total proportion of neighbors inside one's hub = 0.8742307692307693, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CCA511730> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CCA511730> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CCA511730> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85625, 0.89375, 0.88125, 0.853125, 0.8625, 0.8847222222222222, 0.9041666666666667, 0.885952712100139, 0.8875, 0.8888888888888888] 
+total proportion of neighbors inside one's hub = 0.8838238122715907, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002434C0F9DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002434C1001F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002434C1001F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002434C1001F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002434C0F9DF0> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002434C1001F0> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.966666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85, 0.853125, 0.859375, 0.859375, 0.853125, 0.9013888888888889, 0.8930555555555556, 0.8861111111111111, 0.8875, 0.8927576601671309] 
+total proportion of neighbors inside one's hub = 0.880723355136591, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 8 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AD62F2F10> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABD3ACBE0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AD62F2F10> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ABD3ACBE0> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 7.9875, 8.0, 12.0, 12.0, 11.991666666666667, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.865625, 0.8875, 0.8857589984350548, 0.86875, 0.8819444444444444, 0.8875, 0.8839471855455178, 0.8777777777777778, 0.8805555555555555] 
+total proportion of neighbors inside one's hub = 0.8807462973648779, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 12 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 6 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 12 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 6 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 8 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 9 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 14 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 12 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 8 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 22 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 22 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 14 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 20 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 18 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 23 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.890625, 0.8875, 0.8625, 0.88125, 0.88125, 0.8986111111111111, 0.9055555555555556, 0.9027777777777778, 0.8930555555555556, 0.9194444444444444] 
+total proportion of neighbors inside one's hub = 0.8967307692307692, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC9A9B8B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC9ABF160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC9ABF160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC9ABF160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AC9A9B8B0> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AC9ABF160> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 7.9875, 12.0, 12.0, 11.975, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.853125, 0.884375, 0.85625, 0.85625, 0.8200312989045383, 0.8861111111111111, 0.8972222222222223, 0.8921363952679193, 0.9097222222222222, 0.9] 
+total proportion of neighbors inside one's hub = 0.883801462100808, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 24 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4CBEF1400> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4CBEF1400> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4CBEF1400> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.983333333333333, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.896875, 0.846875, 0.86875, 0.86875, 0.8625, 0.8970792767732962, 0.8847222222222222, 0.8986111111111111, 0.9180555555555555, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8895941527216773, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 24 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 24 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CC295D490> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CC295D490> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CC295D490> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 11.983333333333333, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.871875, 0.86875, 0.878125, 0.8625, 0.9236111111111112, 0.8986111111111111, 0.9, 0.8998609179415855, 0.9055555555555556] 
+total proportion of neighbors inside one's hub = 0.8947874591267552, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C447663EB0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C447663EB0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C447663EB0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.983333333333333] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.878125, 0.88125, 0.865625, 0.90625, 0.8958333333333334, 0.8958333333333334, 0.8916666666666667, 0.8833333333333333, 0.8845618915159944] 
+total proportion of neighbors inside one's hub = 0.8874783612233121, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.85625, 0.890625, 0.871875, 0.884375, 0.9097222222222222, 0.8930555555555556, 0.9055555555555556, 0.8888888888888888, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.8917307692307692, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243432F6670> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243432EF250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x00000243432F6670> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x00000243432EF250> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.991666666666667, 11.991666666666667, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.884375, 0.875, 0.8375, 0.871875, 0.9041666666666667, 0.9, 0.8756080611535789, 0.8922863099374566, 0.8888888888888888] 
+total proportion of neighbors inside one's hub = 0.8842085016349298, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABB089E20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABB062520> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABB062520> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABB062520> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ABB089E20> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ABB062520> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.975, 12.0, 12.0, 12.0, 11.991666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.85625, 0.8625, 0.83125, 0.878125, 0.9018789144050104, 0.8902777777777777, 0.8805555555555555, 0.8944444444444445, 0.8783877692842251] 
+total proportion of neighbors inside one's hub = 0.8805309734513275, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 8 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 10 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 13 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 22 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC02E98B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC02E98B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC02E98B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020AC02DA2B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AC02E98B0> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020AC02DA2B0> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.991666666666667, 12.0, 11.975, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.865625, 0.871875, 0.86875, 0.8625, 0.9027777777777778, 0.8895066018068103, 0.8875, 0.9046624913013221, 0.8875] 
+total proportion of neighbors inside one's hub = 0.8861100423239707, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4BE658A60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4BE658A60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4BE658A60> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.983333333333333] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85625, 0.875, 0.88125, 0.875, 0.875, 0.8944444444444445, 0.8930555555555556, 0.8819444444444444, 0.9138888888888889, 0.9026425591098748] 
+total proportion of neighbors inside one's hub = 0.8895941527216773, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023352361AF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023352380E50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023352361AF0> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023352380E50> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 7.9875, 8.0, 12.0, 12.0, 11.991666666666667, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.871875, 0.871875, 0.8482003129890454, 0.871875, 0.8958333333333334, 0.8861111111111111, 0.886726893676164, 0.8986111111111111, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.884977880361608, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CD6527F10> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CD6527550> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CD6527550> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CD6527550> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CD6527F10> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CD6527550> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.975, 11.991666666666667, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.878125, 0.8875, 0.88125, 0.86875, 0.9102296450939458, 0.8783877692842251, 0.8944444444444445, 0.8861111111111111, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8889957676029242, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.859375, 0.859375, 0.896875, 0.88125, 0.8625, 0.8888888888888888, 0.9125, 0.8902777777777777, 0.8902777777777777, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8884615384615384, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024351167C40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024351148190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024351167C40> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024351148190> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.991666666666667, 12.0, 12.0, 11.991666666666667, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.853125, 0.9, 0.85, 0.8625, 0.85, 0.9020152883947186, 0.8902777777777777, 0.8944444444444445, 0.886726893676164, 0.8986111111111111] 
+total proportion of neighbors inside one's hub = 0.8847855356799385, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ACF4101C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ACF4101C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ACF4101C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AC01A9790> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ACF4101C0> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AC01A9790> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 7.9875, 8.0, 8.0, 12.0, 11.975, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.896875, 0.8356807511737089, 0.878125, 0.84375, 0.8986111111111111, 0.8907446068197634, 0.8736111111111111, 0.8791666666666667, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.8809157368218545, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.909375, 0.86875, 0.859375, 0.86875, 0.846875, 0.8944444444444445, 0.9083333333333333, 0.8819444444444444, 0.9027777777777778, 0.9027777777777778] 
+total proportion of neighbors inside one's hub = 0.8896153846153846, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 19 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020ACEEE6250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020ACEEDEFD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020ACEEE6250> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020ACEEDEFD0> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.825, 0.871875, 0.884375, 0.896875, 0.871875, 0.8930555555555556, 0.9041666666666667, 0.8887343532684284, 0.8902777777777777, 0.9138888888888889] 
+total proportion of neighbors inside one's hub = 0.8894018080400077, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 21 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002334035D5B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023352A03190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023352A03190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023352A03190> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002334035D5B0> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023352A03190> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.9875, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.975, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8482003129890454, 0.859375, 0.871875, 0.884375, 0.85, 0.9027777777777778, 0.8902777777777777, 0.9018789144050104, 0.8847222222222222, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8851481338976529, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4D7EF7D30> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4D7F1F370> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4D7EF7D30> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4D7F1F370> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.991666666666667, 12.0, 12.0, 11.991666666666667, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.871875, 0.85625, 0.865625, 0.871875, 0.8992355802640722, 0.8986111111111111, 0.9, 0.8936761640027797, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8878630505866513, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8875, 0.878125, 0.871875, 0.871875, 0.85, 0.9, 0.9138888888888889, 0.8972222222222223, 0.9013888888888889, 0.8861111111111111] 
+total proportion of neighbors inside one's hub = 0.8911538461538462, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 2 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4519A2AC0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C43EFCE8B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4519A2AC0> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C43EFCE8B0> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.9875, 8.0, 8.0, 7.9875, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8732394366197183, 0.8375, 0.865625, 0.8607198748043818, 0.8875, 0.9083333333333333, 0.8888888888888888, 0.9097222222222222, 0.9, 0.9013888888888889] 
+total proportion of neighbors inside one's hub = 0.8903635314483554, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ACF439F10> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ACF439F10> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ACF439F10> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 7.975, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.859375, 0.875, 0.8401253918495298, 0.840625, 0.8875, 0.8958333333333334, 0.8930555555555556, 0.8902777777777777, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8817080207732256, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243531FD280> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243531FD280> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243531FD280> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024367394A00> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x00000243531FD280> has 9 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024367394A00> has 7 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 7.9875, 8.0, 8.0, 8.0, 11.975, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.8607198748043818, 0.86875, 0.890625, 0.9125, 0.8921363952679193, 0.9, 0.8875, 0.8888888888888888, 0.8972222222222223] 
+total proportion of neighbors inside one's hub = 0.8893805309734514, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E55EF2D60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E55EF2D60> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E55F11400> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E55F11400> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E55EF2D60> has 10 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E55F11400> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 11.983333333333333, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.878125, 0.859375, 0.865625, 0.878125, 0.86875, 0.8847222222222222, 0.894297635605007, 0.9027777777777778, 0.8984700973574409, 0.9055555555555556] 
+total proportion of neighbors inside one's hub = 0.8888033859176606, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020ADE8C4F40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020ADE8C4F40> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020ADE8C4F40> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.896875, 0.884375, 0.85, 0.865625, 0.865625, 0.9097222222222222, 0.9097222222222222, 0.9040333796940194, 0.8805555555555555, 0.9069444444444444] 
+total proportion of neighbors inside one's hub = 0.8930563569917291, expected = 0.89
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002335D388FD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002335D388FD0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002335D388FD0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.84375, 0.865625, 0.871875, 0.85, 0.846875, 0.8986111111111111, 0.885952712100139, 0.9097222222222222, 0.8791666666666667, 0.9083333333333333] 
+total proportion of neighbors inside one's hub = 0.8838238122715907, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CDCAB9250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CDCAB9250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CDCAB9250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000025CDCAB9250> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000025CDCAB9250> has 8 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.966666666666667, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.846875, 0.853125, 0.853125, 0.875, 0.8875, 0.9027777777777778, 0.8955431754874652, 0.8958333333333334, 0.8861111111111111] 
+total proportion of neighbors inside one's hub = 0.8834166987302808, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4E2488160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4E2488160> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4E2488160> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.875, 0.859375, 0.840625, 0.85, 0.878125, 0.9, 0.9095966620305981, 0.9, 0.8944444444444445, 0.8930555555555556] 
+total proportion of neighbors inside one's hub = 0.8874783612233121, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 4 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AE0294CA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024AE0294CA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABB091340> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000024ABB091340> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024AE0294CA0> has 10 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000024ABB091340> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.975, 8.0, 8.0, 8.0, 8.0, 12.0, 11.983333333333333, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8589341692789969, 0.875, 0.88125, 0.871875, 0.865625, 0.8902777777777777, 0.8901251738525731, 0.8861111111111111, 0.9027777777777778, 0.8875] 
+total proportion of neighbors inside one's hub = 0.8849557522123894, expected = 0.89
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.86875, 0.846875, 0.840625, 0.865625, 0.871875, 0.8833333333333333, 0.8930555555555556, 0.8888888888888888, 0.8958333333333334, 0.8819444444444444] 
+total proportion of neighbors inside one's hub = 0.879423076923077, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 2 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E36867E20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000021E5A225520> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E36867E20> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000021E5A225520> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 7.9875, 8.0, 12.0, 12.0, 12.0, 11.991666666666667, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.88125, 0.85, 0.884375, 0.86697965571205, 0.871875, 0.9, 0.875, 0.9, 0.8853370396108409, 0.8916666666666667] 
+total proportion of neighbors inside one's hub = 0.8844008463165993, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 7 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243658651F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x00000243658651F0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x00000243658651F0> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.983333333333333, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.865625, 0.85625, 0.86875, 0.853125, 0.8956884561891516, 0.9027777777777778, 0.8972222222222223, 0.8944444444444445, 0.8958333333333334] 
+total proportion of neighbors inside one's hub = 0.8861319484516254, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 15 so no epidemic took place.
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85625, 0.86875, 0.85625, 0.875, 0.853125, 0.8930555555555556, 0.9041666666666667, 0.8902777777777777, 0.8902777777777777, 0.8875] 
+total proportion of neighbors inside one's hub = 0.8834615384615384, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 2 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4A1EA51C0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C8951CA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C8951CA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C4C8951CA0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4A1EA51C0> has 7 neighbors, wanted 8
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C4C8951CA0> has 9 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [7.9875, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 11.975] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8482003129890454, 0.840625, 0.86875, 0.859375, 0.865625, 0.8888888888888888, 0.9013888888888889, 0.9, 0.9013888888888889, 0.8907446068197634] 
+total proportion of neighbors inside one's hub = 0.8841862254713351, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020A890545B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000020A890545B0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000020A890545B0> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 7.975, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.871875, 0.85625, 0.8495297805642633, 0.85, 0.853125, 0.8902777777777777, 0.8875, 0.8763888888888889, 0.8902777777777777, 0.9083333333333333] 
+total proportion of neighbors inside one's hub = 0.8799769186381996, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002334035DE80> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x0000023372EC3E20> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002334035DE80> has 11 neighbors, wanted 12
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x0000023372EC3E20> has 11 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 11.991666666666667, 12.0, 12.0, 12.0, 11.991666666666667] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.85625, 0.859375, 0.871875, 0.85625, 0.871875, 0.9047949965253649, 0.8875, 0.8875, 0.8916666666666667, 0.8853370396108409] 
+total proportion of neighbors inside one's hub = 0.8826697441815734, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002435A89EE50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000002435A89EE50> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000002435A89EE50> has 10 neighbors, wanted 12
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 8.0, 8.0, 8.0, 8.0, 12.0, 12.0, 11.983333333333333, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.8625, 0.85625, 0.86875, 0.871875, 0.865625, 0.9, 0.8930555555555556, 0.8956884561891516, 0.8944444444444445, 0.9013888888888889] 
+total proportion of neighbors inside one's hub = 0.8870936718599731, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
+DEBUG:root:Institution: All seed agents were vaccinated in season 2 so no epidemic took place.
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C434933DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: agent <VaxModel.VaxAgent object at 0x000001C434933DF0> could not find a valid match when assigning neighbors
+DEBUG:root:Institution: Agent <VaxModel.VaxAgent object at 0x000001C434933DF0> has 6 neighbors, wanted 8
+DEBUG:root:INSTITUTION: NETWORK GENERATED! Here is some information: 
+actual list of hub densities = [8.0, 7.975, 8.0, 8.0, 8.0, 12.0, 12.0, 12.0, 12.0, 12.0] 
+expected list of hub densities = [8, 8, 8, 8, 8, 12, 12, 12, 12, 12] 
+actual list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+expected list of hub sizes = [80, 80, 80, 80, 80, 120, 120, 120, 120, 120] 
+proportion of neighbors inside hub, by hub = [0.865625, 0.8369905956112853, 0.875, 0.85, 0.8875, 0.8916666666666667, 0.9041666666666667, 0.9083333333333333, 0.9027777777777778, 0.9041666666666667] 
+total proportion of neighbors inside one's hub = 0.8901711867666859, expected = 0.89
+DEBUG:root:Institution: All seed agents were vaccinated in season 1 so no epidemic took place.
